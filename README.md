@@ -1,4 +1,4 @@
-WELCOME! This is a collection of my sql code for all the Case Studies in the 8 Week SQL Challenge. Clink on the link for each case study for more details!
+WELCOME! This is a collection of my sql code for all the Case Studies in the 8 Week SQL Challenge. Click on the link for each case study for more details! The case studies without the link means I'm currently working on the file... hehe 
 
 ✧⋆٩(ˊᗜˋ )و ♡✧
 
